@@ -5,3 +5,4 @@ Test cases for google drive and gmail integration points :
 4.check whether the downloaded file from gmail is visible in drive(In shared option).
 5.check whether the drive file was being uploading in gmail.
 6.check whether the contact synchronize information of the gmail are reflect in drive side menu options.
+7.Ensure that the daily task assigned from the drive reflect to gmail signed devices.
